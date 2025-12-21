@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"> Ciência da Computação | Back-end developer | Cybersecurity Enthusias </p>
+<p align="left"> Estudande de Ciência da Computação | Back-end developer | Cybersecurity Enthusias </p>
 
 ###
 
