@@ -8,7 +8,7 @@
 <h2><strong>Olá Mundo!</strong></h2>
 
 <pre>
-"𝑨 𝒎𝒆𝒏𝒕𝒆 𝒒𝒖𝒆 𝒅𝒐𝒎𝒊𝒏𝒂 𝒂 𝒎𝒂𝒈𝒊𝒂 𝒅𝒐𝒔 𝒃𝒊𝒕𝒔 𝒄𝒐𝒏𝒕𝒓𝒐𝒍𝒂 𝒐 𝒎𝒖𝒏𝒅𝒐""
+"𝑨 𝒎𝒆𝒏𝒕𝒆 𝒒𝒖𝒆 𝒅𝒐𝒎𝒊𝒏𝒂 𝒂 𝒎𝒂𝒈𝒊𝒂 𝒅𝒐𝒔 𝒃𝒊𝒕𝒔 𝒄𝒐𝒏𝒕𝒓𝒐𝒍𝒂 𝒐 𝒎𝒖𝒏𝒅𝒐"
 </pre>
 
 <p><strong>Estudante de Ciência da Computação | Back-end Developer | Cybersecurity Enthusias  </strong></p>
